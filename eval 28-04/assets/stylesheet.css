@@ -1,0 +1,63 @@
+/* Couleur:
+#004a6f
+#2b9f88 */
+body{
+    background-image: url(../assets/1952713-jungle-paysage-sur-fond-de-montagne-gratuit-vectoriel.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.section{
+    display: flex;
+    align-items: center;
+    justify-content: center ;
+    flex-direction: column;
+    max-width: 40rem ;
+    max-height: 40rem;
+    min-width: 40rem;
+    min-height: 40rem;
+    background-color: rgba(133, 221, 145, 0.885);
+    margin: auto;
+    margin-top: 13rem;
+    font-family: monospace;
+    color: #004a6f;
+    border-radius: 5%;
+    border: dashed #004a6f ;
+    
+}
+
+.input{
+    width: 5rem ;
+    height: 2rem;
+    background-color:  rgb(222, 248, 191);
+    border: none;
+    border-radius: 5%;
+    margin-bottom: 2rem;
+    /* border: thick double #32a1ce; */
+}
+
+.btn{
+    width: 8rem ;
+    height: 4rem;
+    background-color: #004a6f;
+    color: #90dc52;
+    font-family: monospace;
+    font-size: large;
+    border: none;
+    border-radius: 5%;
+    margin-bottom: 2rem;
+}
+
+.titleTwo{
+    padding-bottom: 4rem;
+}
+
+.p2{
+    font-weight: bold;
+}
+
+.titleOne{
+    font-size:1.9rem;
+    
+}
